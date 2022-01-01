@@ -96,3 +96,10 @@ p{
     background-color: #ef8172;
     color:#fff
 }
+
+.testimonial-image{
+    width: 20%;
+    border-radius: 50%;
+    padding : 10px;
+    margin: 10px;
+}
