@@ -161,14 +161,19 @@ p{
     font-family: 'Montserrat-Black-900', sans-serif;
     color: #fff;
     padding-top:40px;
-    margin-bottom: 60px;
     font-size:34px;
 }
 
-.cta-btn2{
-    margin-left:50px;
+.fab-cta{
+    padding-right: 4px;
 }
 
-.fab-cta{
-    padding-right: 14px;
+.cta-btn2{
+    margin-left: 0px;
+}
+
+/* footer */
+
+#footer{
+    background-color:#fff;
 }
