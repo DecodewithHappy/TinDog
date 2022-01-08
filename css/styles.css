@@ -65,10 +65,10 @@ p{
 /* Title Image */
 
 .title-image{
-    width: 18%;
+    width: 20%;
     transform: rotate(25deg);
     position: absolute;
-    left: 907px;
+    left: 890px;
     top: 215px;
 }
 
@@ -78,6 +78,7 @@ p{
     }
 
     .title-image{
+        width: 30%;
         position:static;
         transform: rotate(0);
     }
