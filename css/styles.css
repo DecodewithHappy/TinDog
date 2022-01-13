@@ -25,14 +25,9 @@ body {
     }
 }
 
-#title {
-    background-color: #ff4c68;
-    color: #fff;
-    text-align: left;
-}
-
 #title .container-fluid{
     padding : 3% 15% 7%;
+    text-align: left;
 }
 
 /* heading */
@@ -69,6 +64,16 @@ p {
     /* font-size:1.2rem; */
 }
 
+/* color-white section */
+.colored-section {
+    background-color: #ff4c68;
+    color: #fff;
+}
+
+.white-section {
+    background-color: #fff;
+}
+
 /* nav-bar */
 .navbar {
     padding: 0 0 4.5rem;
@@ -98,7 +103,6 @@ p {
 /* Feature Section */
 
 #features {
-    background-color: #fff;
     position: relative;
 }
 
@@ -176,7 +180,6 @@ p {
 /* Call at Action */
 
 #cta {
-    background-color: #ff4c68;
     height: 280px;
 }
 
@@ -198,10 +201,6 @@ p {
 }
 
 /* footer */
-
-#footer {
-    background-color: #fff;
-}
 
 .footer-icon {
     margin: 20px 10px;
